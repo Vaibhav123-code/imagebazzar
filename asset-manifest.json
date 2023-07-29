@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imagebazzar/static/css/main.073c9b0a.css",
+    "main.js": "/imagebazzar/static/js/main.6e6c6b7a.js",
+    "static/js/787.09d96e72.chunk.js": "/imagebazzar/static/js/787.09d96e72.chunk.js",
+    "static/media/logo.svg": "/imagebazzar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/imagebazzar/index.html",
+    "main.073c9b0a.css.map": "/imagebazzar/static/css/main.073c9b0a.css.map",
+    "main.6e6c6b7a.js.map": "/imagebazzar/static/js/main.6e6c6b7a.js.map",
+    "787.09d96e72.chunk.js.map": "/imagebazzar/static/js/787.09d96e72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6e6c6b7a.js"
+  ]
+}
